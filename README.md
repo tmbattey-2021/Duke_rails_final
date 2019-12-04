@@ -8,8 +8,6 @@
 
 1. run rspec
 
-1. **BONUS** write a Dockerfile and docker-compose.yml file to run the server,
-   rake, rails c, rspec, etc. for local development.
 
 # Running tests
 
