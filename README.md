@@ -50,7 +50,7 @@ Please edit this README.md file and provide your answers below
 			Department VARCHAR2
 			Status VARCHAR2
 			
-2.	Below are tables containing information about protocol dates from the IRB and Clinical Research Management System (CRMS)  Write a query that selects distinct studies currently approved or closed that provides the following dates – Date Created, IRB Reviewed Date, IRB Approval Date – including number of days between each date. Also provide the earliest date a subject enrolled on the study. Also include PI, CRU, Department
+2.	Below are tables containing information about protocol dates from the IRB and Clinical Research Management System (CRMS).  Write a query that selects distinct studies currently approved or closed that provides the following dates – Date Created, IRB Reviewed Date, IRB Approval Date – including number of days between each date. Also provide the earliest date a subject enrolled on the study. Also include PI, CRU, Department
 
 		TABLE protocols
 		  Protocol_ID VARCHAR2
