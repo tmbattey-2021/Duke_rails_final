@@ -1,4 +1,10 @@
-# Installation
+This assignment consists of two parts, rails API and Oracle SQL
+
+---
+
+# Ruby on Rails API
+
+## Installation
 
 1. `git clone` this repository
 
@@ -9,7 +15,7 @@
 1. run rspec
 
 
-# Running tests
+## Running tests
 
 We use RSpec for our automated tests. You must write tests for your code
 according to the following standard:
@@ -19,12 +25,18 @@ according to the following standard:
 - **BONUS** avoid hard-coding test artifacts such as created objects, request
   parameters, etc.
 
-# Problems to be solved
+## Problems to be solved
 
 As you work through these problems, please **commit your code early and often**.
 A good rule of thumb is to make small commits grouped by specific functionality.
 
-## Problem 1 REST backend
+### Problem 1 REST backend
 
 You have been provided assignment.apib, and assignment.html (a human readable version).
 Using the existing Rails api application framework, implement the requirements specified in assignment.apib.
+
+---
+
+# Oracle SQL
+
+Please edit this README.md file and provide your answers below
