@@ -65,8 +65,9 @@ Please edit this README.md file and provide your answers below
 		  Department VARCHAR2
 		  Status VARCHAR2
 
-		TABLE Sponsor
+		TABLE Enrollment
 		  Protocol_ID VARCHAR2
-		  Sponsor_Name VARCHAR2
-		  Sponsor_Type VARCHAR2
+		  Subject_MRN VARCHAR2
+		  Enrolled_On  DATE
+
 
