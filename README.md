@@ -1,4 +1,4 @@
-## This assignment consists of two parts, rails API and Oracle SQL
+## This assignment consists of two parts, rails API and SQL
 
 # Ruby on Rails API
 
@@ -19,7 +19,7 @@ We use RSpec for our automated tests. You must write tests for your code
 according to the following standard:
 
 - spec/models: specifications for any models that you create
-- spec/requests: specifications for all requests against the application
+- **BONUS** spec/requests: specifications for all requests against the application
 - **BONUS** avoid hard-coding test artifacts such as created objects, request
   parameters, etc.
 
@@ -35,9 +35,9 @@ Using the existing Rails api application framework, implement the requirements s
 
 ---
 
-# Oracle SQL
+# SQL
 
-Please edit this README.md file and provide your answers below
+Please edit this README.md file and provide your answers below.  The datatypes are Oracle, but feel free to use any variant of SQL.
 
 1.  Below is a table containing information about protocols within the Duke Institutional Review Board (IRB) Application.
 	Write a query that selects distinct studies currently approved by the IRB that might be trauma-related (based on title).
